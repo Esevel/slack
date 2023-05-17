@@ -1,4 +1,4 @@
-# Slack for PHP
+# Slack for PHP (custom version master)
 
 [![Build Status](https://travis-ci.org/php-slack/slack.svg?branch=master)](https://travis-ci.org/php-slack/slack)
 [![Code Coverage](https://scrutinizer-ci.com/g/php-slack/slack/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/php-slack/slack/?branch=master)
